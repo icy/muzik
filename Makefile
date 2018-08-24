@@ -6,6 +6,7 @@ all: $(MS) local
 	lilypond "$<"
 	touch -r "$<" "$(@)"
 
+.PHONY: local
 local:
 	if test -f "local.sh"; then \
 		./local.sh ; \
