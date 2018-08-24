@@ -8,4 +8,5 @@ https://icy.theslinux.org/muzik/
 
 ## License
 
-See `COPYING`.
+General works: See `COPYING`.
+Lilypond source files: `CC BY-SA 3.0`.
