@@ -59,12 +59,12 @@ staffMelody = \relative c' {
     e4\times 2/3 { a,8 e'8 f8 } e4. d16 b16
     b4\times 2/3 { c8 c8 a8} a4. a'16 bes16
     a4\times 2/3 { d,8 a'8 bes8 } a4. g16 g16
-    g4\times 2/3 { g8 a8 f8 } e2(
+    g4\times 2/3 { g8 a8 f8 } e2~
 
     \time 2/4
     \autoBeamOn
 
-    e4) \times 2/3 { e8 e8 e8 }
+    e4 \times 2/3 { e8 e8 e8 }
 
     \time 4/4
 

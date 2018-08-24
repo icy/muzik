@@ -44,7 +44,7 @@ staffMelody = \relative c' {
      e4.  g16 a16 | g4. c,16 d16| e4. g16 e16 | d4. c16^\markup { D.S. al Coda } d16 | c2~ |
 
      % Nay em da khoc...
-      4 \tuplet 3/2{c'8 d8 e8} | e4 \tuplet 3/2{g,8 c8 d8} |
+      4 \times 2/3{c'8 d8 e8} | e4 \times 2/3{g,8 c8 d8} |
      c2~ | c8 g8 a8 c8 | b8 a8 e8 a8 | g4. e16 d16 | c8 d8 e8 a8 |
      a4.
         % duong phuong bay
