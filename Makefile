@@ -1,6 +1,8 @@
 MS := $(shell \ls *.ly | sed -e 's|\.ly|.pdf|')
 
-all: $(MS) local
+.PHONY: all build
+build: $(MS)
+all: build local
 
 %.pdf: %.ly
 	lilypond "$<"
