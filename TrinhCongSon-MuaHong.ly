@@ -5,7 +5,7 @@
 \header {
   title = "Mưa hồng"
   composer = "Trịnh Công Sơn"
-  tagline = "Lilypond source prepared by Ky-Anh Huynh on 2014.08.24. License: CC BY-SA 3.0"
+  tagline = "Lilypond source prepared by Ky-Anh Huynh on 2018.08.24. License: CC BY-SA 3.0"
 }
 
 \markup { \vspace #1 }
