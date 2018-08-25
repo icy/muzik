@@ -70,8 +70,8 @@ staffMelody = \relative c' {
 
 theChords = \chordmode {
   \include "predefined-guitar-fretboards.ly"
-  \set chordChanges = ##f
-  s8 g4. | q2 | e2:m |
+  \set chordChanges = ##t
+  g2 | q2 | e2:m |
   q | c2 | q  | q | a2:m | q |
   q | g2 | q | a2:m |
   q | d2:7 | q | g2 | q |
