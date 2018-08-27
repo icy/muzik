@@ -91,7 +91,7 @@ staffMelody = \relative c' {
   c2 c8. c16~ c8 d8 |
   c2. r8 g16 a16 |
   b2 b8. c16~ c8 b8 |
-  a2. r8 a16 g16 |
+  a2. r8 a16 b16 |
   c2 c8. c16~ c8 d8 |
   c2 r8 b8~ b8 a8 |
   b1~ | b2 r4 r8 a16 b16 |
@@ -110,20 +110,21 @@ staffMelody = \relative c' {
 theChords = \chordmode {
   \include "predefined-guitar-fretboards.ly"
   \set chordChanges = ##t
+
   s1 | s1 | s1 |
   s2 s8 a4.:m |
   a1:m | c1 | d1:m |
   a1:m | a1:m | c1 | d1:m | a1:m |
   e1:m | a1:m | e1:m | d1:m |
-  d1:m | f1: | e1:7 |
-  q | a1:m | c1 | d1:m | a1:m | a1:m |
-  c1 | d1:m | a1:m |
-asdfasdfasdf  d1:m | a1:m | e1:7 | q | c1: | q |
-  g1 | a1:m | c1 | q |
-  e1:7 | q | c1 | q | g1 |
-  a1 | c1 | g1 | a1:m
-}
+  d1:m | f1: | e1:7 | q |
 
+  a1:m | c1 | d1:m | a1:m | a1:m |
+  c1 | d1:m | a1:m |
+  e1:m | a1:m | e1:m | d1:m | q |
+  a1:m | e1:7 | q | c1 | q |
+  g1 | a1:m | c1 | q | e1:7 | q | c1 | q |
+  g1 | a1 | c1 | g1 | a1:m
+}
 
 \paper {
   left-margin = 2\cm
