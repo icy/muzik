@@ -14,11 +14,13 @@
 verseI = \lyricmode {
   \override LyricText #'font-name = #"Choco Cooky"
 
-  tình yêu đó cho em tháng năm trên từng phím xuân lay
-  đóa môi xinh dòng thác mây bay
-  mùa thu lá heo mây gọi về
+  tình yêu đó cho em
+  tháng năm trên từng phím xuân lay
+  đóa môi xinh dòng tóc mây bay
+  mùa thu gió heo mây gọi về
   mùa đông nắng hanh trên tuổi thề
   mình đan nắng ru mây ước mơ xa vời
+
   một hôm gió xuân sang
   mây lang thang cài tóc em mang
   đến thăm êm chiều nắng miên man
@@ -26,18 +28,21 @@ verseI = \lyricmode {
   rồi đông đến sao em lạnh lùng
   đường phố vắng thênh thang
   ru buồn gót chân
+
   chiều còn mưa bay
     ướt bước chân mòn lãng du
     ướt áo cho tình thắm sâu
     ướt đóa môi hồng hững hờ
-  rũ ướt cung đàn buồn dâng mây tím giăng ngang
+  rũ ướt cung đàn
+  buồn dâng mây tím giăng ngang
   buồn vương ân ái phai tàn
+
   mùa xuân đến chưa em
   bước chân ai dìu tiếng mưa đêm
   vắng xa đưa dòng tóc mây bay
   mùa thu vẫn chưa nguôi giận hờn
   mùa đông vẫn chưa thôi lạnh lùng
-  giòng lá cuốn em mang
+  dòng nhạc cuốn em mang
   trôi dài mãi trôi
 }
 
