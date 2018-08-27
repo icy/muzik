@@ -1,4 +1,5 @@
 % Original sheet found from vnguitar.net
+% Chậm
 
 \version "2.18.2"
 
