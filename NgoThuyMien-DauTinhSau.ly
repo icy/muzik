@@ -54,7 +54,7 @@ staffMelody = \relative c' {
   \repeat volta 2 {
     a1~ |
     a8 a8 a8 g8 g8 f8 f8 e8 |
-    d1~ | d4 r8 d8 f8 a8 d8 c8 |
+    d1~ | d4\segno r8 d8 f8 a8 d8 c8 |
     e,4. c8 e8 a8 c8 b8 |
   }
   \alternative {
@@ -76,10 +76,10 @@ staffMelody = \relative c' {
 
   a1~ | a8 c8 c8 d8 e8 c8 e8 b8 |
   a1~ | a8 a8 a8 g8 g8 f8 f8 e8 |
-  d1~ | d4 r8 d8 f8 a8 d8 c8 |
+  d1~ | d4\segno r8 d8 f8 a8 d8 c8 |
   e,4. c8 e8 a8 c8 b8 |
   d,4. d8 e8 a8 gis8 b8 |
-  a1~ | a1 |
+  a1~ | a1\segno |
   \bar "|."
 }
 
