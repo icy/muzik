@@ -74,7 +74,7 @@ staffMelody = \relative c' {
   b4. a16 b16 c8 b8 c8 a8 |
   a4. gis16 a16 b8 d8 c8 b8 |
 
-  a1~ | a8 c8 c8 d8 e8 c8 e8 b8 |
+  a1~ | a8 c8 c8 d8 e8 c8 d8 b8 |
   a1~ | a8 a8 a8 g8 g8 f8 f8 e8 |
   d1~ | d4\segno r8 d8 f8 a8 d8 c8 |
   e,4. c8 e8 a8 c8 b8 |
