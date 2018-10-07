@@ -90,9 +90,9 @@ staffMelody = \relative c' {
   r8 b8 b4   \times 2/3 {b8 d8 e8} f4
   \times 2/3 {b,8 d8 f8} e2.
 
-  r8   d8 d4  \fermata \times 2/3 {d8 f8 a8} b4  \fermata
+  r8   d8 d4  \fermata \times 2/3 {d8\fermata f8\fermata a8\fermata} b4  \fermata
   \times 2/3 {a8\fermata   b8\fermata   f'8\fermata  }
-  e2.\fermata   r8 e,16 f16
+  e2.   r8 e,16 f16
   e4   \times 2/3 {a,8 e'8 f8 } e4.
   d16 b16 b4   \times 2/3 {c8 c8 a8}
   a4.   a'16 bes16
