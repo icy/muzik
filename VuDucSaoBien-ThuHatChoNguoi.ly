@@ -3,7 +3,7 @@
 \header {
   title = "thu hát cho người"
   composer = "vũ đức sao biển"
-  tagline = "Lilypond source prepared by Ky-Anh Huynh on 2018.08. License: CC BY-SA 3.0"
+  tagline = "Lilypond source prepared by Ky-Anh Huynh on 2018.10. License: CC BY-SA 3.0"
 }
 
 \markup { \vspace #1 }
