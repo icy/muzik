@@ -45,13 +45,13 @@ staffMelody = \relative c' {
   d4. d8 d8 a4 f8 | a2. \times 2/3 {g8 bes8 a8} |
   d,4. f8 a8 a4 g8 | g2. r8 f16 d16 |
   d4. d8 a4. d16 e16 | f2. r8 f16 e16 |
-  e4. a8 e4. g16 f16 | d1~ | d2 r4 \times 2/3 {e'8 f8 a,8} |
+  e4. a,8 e'4. g16 f16 | d1~ | d2 r4 \times 2/3 {e'8 f8 a,8} |
   d4. d8 d8 d4 g,8 | bes4. bes8 bes8 bes4 f8 |
   a2. r8 a16 f16 | d4. d8 a4.  d16 e16 |
   f2. r8 a,16 a16 | e'4. a,8 f'4. a,16 c16 | d1~ |
   d2. r8 d16 f16 |
   d4. f16 c16 c4. d16 a16 | a2. r8 d16 f16 |
-  d4. f16 c16 c4. e16 f16 | d2. r8 d16 f16 |
+  d4. f16 c16 c4. e16 f16 | d2. r8 d16 d16 |
   g4. g8 a4. a16 d,16 | f2. r8 e16 e16 |
   a4. g8 a4. d,16 f16 | d1
     \mark \markup { \musicglyph "scripts.coda" }
