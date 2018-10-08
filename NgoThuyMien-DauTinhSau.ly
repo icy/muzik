@@ -1,3 +1,5 @@
+#(set-global-staff-size 13)
+
 \version "2.19.0"
 
 \header {

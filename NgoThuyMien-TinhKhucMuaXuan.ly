@@ -1,3 +1,5 @@
+#(set-global-staff-size 13)
+
 % Original sheet found on vnguitar.net
 % Dìu dặt
 

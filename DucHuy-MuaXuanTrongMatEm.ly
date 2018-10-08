@@ -1,5 +1,9 @@
+#(set-global-staff-size 13)
+
 % Original sheet found on vnguitar.net
 % Boléro - Chậm
+
+#(set-global-staff-size 12)
 
 \version "2.19.0"
 

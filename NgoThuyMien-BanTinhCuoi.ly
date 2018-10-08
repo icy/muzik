@@ -1,5 +1,9 @@
+#(set-global-staff-size 13)
+
 % Original sheet found from vnguitar.net
 % Chậm buồn
+
+#(set-global-staff-size 11)
 
 \version "2.18.2"
 

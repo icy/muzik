@@ -1,3 +1,5 @@
+#(set-global-staff-size 13)
+
 % Original sheet found from vnguitar.net
 % Chậm
 
