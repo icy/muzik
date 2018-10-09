@@ -123,7 +123,7 @@ theChords = \chordmode {
   d2:m d2:m e2:7 e2:7 a2:m a2:m g2 g2:7 c2 c2
   bes2 bes2 a2:m a2:m g2 g2:7
   c2 a2:m
-  d2:m\fermata e4\fermata \times 2/3 {f8 g8 f8\fermata} e2\fermata e2 a2:m a2:m
+  d2:m e4 \times 2/3 {f8 g8 f8} e2 e2 a2:m a2:m
   e2:7 a2:m
   d2:m f2
   g2:7 c2 c2
