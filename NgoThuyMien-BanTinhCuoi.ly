@@ -100,7 +100,7 @@ staffMelody = \relative c' {
   a4.   a'16 bes16
 
   a4   \times 2/3 {d,8 a'8 bes8} a4.   g16 g16
-  g4   \times 2/3 {g8 a8 e8} e2(
+  g4   \times 2/3 {g8 a8 f8} e2(
   \time 2/4
   e4)
   \times 2/3 {e8 e8 e8}
