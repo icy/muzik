@@ -37,22 +37,23 @@ verseI = \lyricmode {
 
 staffMelody = \relative c' {
   \time 4/4
+  \key g \major
   \autoBeamOn
   r2 r8 d'8~ d8  b8 | b4 r8 b8 b4 a8 b8 | c2. r8 c8 |
-  a2 d,8 c'8 c8 b8 | b2~ b8 r8 b8 a8 | g2 e8 f8 g8 b8 |
-  a2 r4 a8 g8 | f4. a8 \times 2/3{d,4 a'8~} a8 c8 |
+  a2 d,8 c'8 c8 b8 | b2~ b8 r8 b8 a8 | g2 e8 fis8 g8 b8 |
+  a2 r4 a8 g8 | fis4. a8 \times 2/3{d,4 a'8~} a8 c8 |
   b2 r4 d8 b8 | b4 r8 b8 b4 a8 b8 | d2. r8 d8 | a2 d,8 c'8 c8 b8 |
-  b2~ b8 r8 g8 a8 | g2 e8 f8 g8 b8 | a2 r4 a8 g8 |
-  f4. r8 d8 f8 g8 a8 | g2. g8 b8 |
+  b2~ b8 r8 g8 a8 | g2 e8 fis8 g8 b8 | a2 r4 a8 g8 |
+  fis4. r8 d8 fis8 g8 a8 | g2. g8 b8 |
   a4. a8 a4 b8 c8 | d4. b8 g4 r4 |
   e'4. c8 a4 b8 c8 | d2 r8 d8 d8 c8 |
   b2 b8 c8 b8 a8 | g4 a8 b8~ b4 r8 b8 | a2 g8 a8 a8 g8 |
-  f2 r8 d8 d'8 c8 | b4 r8 b8 b4 a8 b8 | c2. r8 c8 |
-  a2 d,8 a'8 c8 c8 | b2~ b8 r8 b8 a8 | g2 e8 f8 g8 b8 |
-  a2 r4 a8 g8 | f4. d8 \times 2/3{f4 g8~} g8 a8 |
+  fis2 r8 d8 d'8 c8 | b4 r8 b8 b4 a8 b8 | c2. r8 c8 |
+  a2 d,8 a'8 c8 c8 | b2~ b8 r8 b8 a8 | g2 e8 fis8 g8 b8 |
+  a2 r4 a8 g8 | fis4. d8 \times 2/3{fis4 g8~} g8 a8 |
   \bar ".|:"
-  g2. g8 a8 | g2 e8 f8 g8 b8 | a2 r4 a8 g8
-  | f4. d8 \times 2/3{f4 g8~} g8 a8 |
+  g2. g8 a8 | g2 e8 fis8 g8 b8 | a2 r4 a8 g8
+  | fis4. d8 \times 2/3{fis4 g8~} g8 a8 |
   \bar ":|."
 }
 
