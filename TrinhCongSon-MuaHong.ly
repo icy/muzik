@@ -41,7 +41,7 @@ verseII = \lyricmode {
 staffMelody = \relative c' {
   \time 2/4
   \autoBeamOn
-  r4 r8  c'16 d16 | e4. d16 c16 | a4. c16 c16 | d4. b16 a16 | g4. g16 a16 |
+  r4 r8  c'16 d16 | e4. d16 c16 | a4. c16 c16 | c4. b16 a16 | g4. g16 a16 |
      b4.  a16 g16 | f4. g16 a16 | g4. e16 d16 | c4. d16 e16 | d2~ |
    4 r8  c'16 d16 | e4. d16 c16 | a4. c16 c16 | c4. b16 a16 | g4. c,16 d16 |
      e4.  g16 a16 | g4. c,16 d16| e4. g16 e16 | d4. c16^\markup { D.S. al Coda } d16 | c2~ |
