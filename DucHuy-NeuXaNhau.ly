@@ -62,7 +62,7 @@ theChords = \chordmode {
   \include "predefined-guitar-fretboards.ly"
   \set chordChanges = ##t
   s1 |
-  g2 aes2:dim | a1:m7 | d1 | g1 | e1:m | a1:m | d1 | g2 c2 |
+  g2 aes2:dim | a1:m7 | d1 | g1 | e1:m | a1:m | d1 | g2 c2/d |
   g2 aes2:dim | a1:m7 | d1 | g1 | e1:m | a1:m | d1 | g1 | a2:m d2 |
   b2:m e2:m | a2:m d2 | g1 | b1:7 | e1:m | a1 | d1 |
   g2 aes2:dim | a1:m7 | d1 | g1 | e1:m | a1:m | d1 | g1 |
