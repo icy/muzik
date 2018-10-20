@@ -1,6 +1,6 @@
+% Ref.: http://web.archive.org/web/20181020103716/https://hopamviet.vn/sheet/song/tinh-khuc-mua-xuan/W8IUII76.html
 #(set-global-staff-size 13)
 
-% Original sheet found on vnguitar.net
 % Dìu dặt
 
 \version "2.19.0"

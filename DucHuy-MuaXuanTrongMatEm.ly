@@ -1,7 +1,7 @@
-#(set-global-staff-size 13)
-
-% Original sheet found on vnguitar.net
+% Ref.: http://web.archive.org/web/20181020103232/https://hopamviet.vn/sheet/song/mua-xuan-trong-doi-mat-em/W8IUIW77.html
 % Boléro - Chậm
+
+#(set-global-staff-size 13)
 
 \version "2.19.0"
 

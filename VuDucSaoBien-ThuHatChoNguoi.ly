@@ -1,3 +1,6 @@
+% Ref.: http://web.archive.org/web/20181020103023/https://hopamviet.vn/sheet/song/thu-hat-cho-nguoi/W8IUII0F.html
+% Bolero
+
 #(set-global-staff-size 13)
 
 \version "2.19.0"

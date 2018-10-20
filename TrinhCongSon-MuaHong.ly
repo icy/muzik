@@ -1,7 +1,5 @@
+% Ref.: http://web.archive.org/web/20181020103917/https://hopamviet.vn/sheet/song/mua-hong/W8IUI0CI.html
 #(set-global-staff-size 13)
-
-% Original sheet found from vnguitar.net
-% Chậm
 
 \version "2.18.2"
 

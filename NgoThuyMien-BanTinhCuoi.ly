@@ -1,7 +1,6 @@
-#(set-global-staff-size 13)
+% Ref.: http://web.archive.org/web/20181020103545/https://hopamviet.vn/sheet/song/ban-tinh-cuoi/W8IU0FAU.html
 
-% Original sheet found from vnguitar.net
-% Chậm buồn
+#(set-global-staff-size 13)
 
 \version "2.18.2"
 
