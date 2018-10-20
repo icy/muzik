@@ -87,7 +87,7 @@ staffMelody = \relative c' {
 
 theChords = \chordmode {
   \include "predefined-guitar-fretboards.ly"
-  \set chordChanges = ##f
+  \set chordChanges = ##t
   \repeat volta 2 {
     s1 | e1:m | a1:m | c2 g2 | g2 e2:m |
     b1:m | g2: fis2:7 |
