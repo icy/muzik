@@ -44,7 +44,7 @@ verseII = \lyricmode {
 
   và người tìm đến giọng hát mơ hồ
   vết bước năm xưa nay vương âm thầm
-  hàng cây mơ móng bên đường
+  hàng cây mơ bóng bên đường
   gọi người khi nắng phai tàn
   gọi tình yêu vào lãng quên
 }
