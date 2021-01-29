@@ -5,7 +5,7 @@
 \header {
   title = "Không đề"
   composer = "Không tên"
-  tagline = "Lilypond source prepared by Ky-Anh Huynh on 2018.08. License: CC BY-SA 3.0"
+  tagline = "Lilypond source prepared by Ky-Anh Huynh in 2018.08. License: CC BY-SA 3.0"
 }
 
 \markup { \vspace #1 }

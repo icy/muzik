@@ -8,7 +8,7 @@
 \header {
   title = "chuyện tình không suy tư"
   composer = "Tâm Anh"
-  tagline = "Lilypond source prepared by Ky-Anh Huynh on 2018.10. License: CC BY-SA 3.0"
+  tagline = "Lilypond source prepared by Ky-Anh Huynh in 2018.10. License: CC BY-SA 3.0"
 }
 
 \markup { \vspace #1 }

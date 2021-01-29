@@ -8,7 +8,7 @@
 \header {
   title = "Mùa xuân trong đôi mắt em"
   composer = "Đức Huy"
-  tagline = "Lilypond source prepared by Ky-Anh Huynh on 2018.08. License: CC BY-SA 3.0"
+  tagline = "Lilypond source prepared by Ky-Anh Huynh in 2018.08. License: CC BY-SA 3.0"
 }
 
 \markup { \vspace #1 }
