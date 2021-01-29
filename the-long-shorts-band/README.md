@@ -22,16 +22,16 @@ Phần giai điệu _melody_ là phần rõ nét nhất.
 
 Trio+ Band creator giống như một ban nhạc nhỏ với kỹ thuật cơ bản.
 Bạn cần chơi solo, hát thì đến nhờ ban nhạc hỗ trợ cho bạn:
-trống, bass, đệm (loop)
+trống, bass, đệm (loop).
 
-* YOU: Này trio, tôi mới chơi bài này _xyz_
-* Trio: Ok, đang ở chế độ học beat/trống. Mời chơi thử một đoạn
-* YOU: Chơi thử một đoạn, xong báo Trio biết
-* Trio: Ok, đã thâu. Giờ cho biết một đoạn đệm/loop:
+* YOU: Này trio, tôi mới chơi bài này _xyz_.
+* Trio: Ok, đang ở chế độ học beat/trống. Mời chơi thử một đoạn.
+* YOU: Chơi thử một đoạn, xong báo Trio biết.
+* Trio: Ok, đã thâu. Giờ cho biết một đoạn đệm/loop.
 * YOU: Ok, nghe nè... _(bạn chơi một đoạn loop; Trio sẽ tự động bật
-  trống/beat kèm theo ngay khi bạn lên note đầu tiên)_
-* YOU: Ok, xong rồi
-* Trio: OK, cảm ơn. Xong
+  trống/beat kèm theo ngay khi bạn lên note đầu tiên)_.
+* YOU: Ok, xong rồi!
+* Trio: OK, cảm ơn. Xong.
 
 Vậy thôi, Trio sẽ thâu và chơi lại đệm/loop; ngoài ra chọn ra kiểu trống/beat
-tốt nhất -- nhưng bạn luôn có thể chỉnh lại cho hợp lý
+tốt nhất -- nhưng bạn luôn có thể chỉnh lại cho hợp lý.
