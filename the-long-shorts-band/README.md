@@ -1,6 +1,6 @@
 ## The Long Shorts Band hay ban nhạc quần đùi dài
 
-## Thành viên:
+## Thành viên
 
 * Trống: Trio+
 * Bass: Trio+
