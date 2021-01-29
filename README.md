@@ -14,14 +14,6 @@ Sample outputs are found at https://github.com/icy/icy.github.io/tree/master/sta
 If you want to create your new song, please take a look at the very simple
 file [`Sample.ly`](Sample.ly).
 
-## Service
-
-If you wanna have some `Lilypond` source for your sheet, feel free to
-open new issue. The price is `us $2`, aka any popular coffee cup ;)
-I will try to reponse in within 1 week.
-
-Your Pull request is also highly appreciated.
-
 ## License
 
 General works: See `COPYING`.
