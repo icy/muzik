@@ -35,3 +35,10 @@ trống, bass, đệm (loop).
 
 Vậy thôi, Trio sẽ thâu và chơi lại đệm/loop; ngoài ra chọn ra kiểu trống/beat
 tốt nhất -- nhưng bạn luôn có thể chỉnh lại cho hợp lý.
+
+### Trio+ ghi chú kỹ thuật
+
+1. NSX: Harman. Nhưng năm 2018 sau khi Samsung mua lại Harman thì
+  đội phát triển của Trio+ (và các sản phẩm khác) bị sa thải.
+1. Phần ra headphone: stereo (sẽ mute hai đầu ra kia!)
+1. Phần ra amp/mixer: mono
