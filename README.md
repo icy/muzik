@@ -1,7 +1,7 @@
 ## Description
 
 `Lilypond` source files for my favorite songs.
-Sample outputs are found at https://icy.theslinux.org/muzik/.
+Sample outputs are found at https://github.com/icy/icy.github.io/tree/master/static/muzik.
 
 ## Getting started
 
