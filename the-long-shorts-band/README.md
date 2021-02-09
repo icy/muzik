@@ -5,6 +5,14 @@
 * Bass/Trống: Trio+
 * Solo/lead: Bất cứ ai mặc quần đùi dài
 
+Gear.... aka `$Money`
+
+- [ ] Ortega R131SN
+- [ ] Trio+ Band creator
+- [ ] Go2 JPL speaker with built-in amp
+- [ ] Pocket Operator KO33
+- [ ] Tascam DR07x
+
 ## Ghi chú, góp ý
 
 https://github.com/icy/muzik/issues
