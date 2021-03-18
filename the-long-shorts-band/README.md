@@ -1,9 +1,13 @@
-## The Long Shorts Band hay ban nhạc quần đùi dài
+## The Long Shorts Band
 
-## Thành viên
+I love to play some acoustic guitar for my own and my kids.
+Can I have more fun by forming my own jamming band?
+Yes it's possible with Trio+ Band creator or alike tool.
 
-* Bass/Trống: Trio+
-* Solo/lead: Bất cứ ai mặc quần đùi dài
+## Members
+
+* Bass/Drum: Trio+
+* Solo/lead: Anyone with their own long shorts ;)
 
 Gear.... aka `$Money`
 
@@ -13,17 +17,22 @@ Gear.... aka `$Money`
 - [ ] Pocket Operator KO33
 - [ ] Tascam DR07x
 
-## Ghi chú, góp ý
+## Notes and issues
 
 https://github.com/icy/muzik/issues
 
 ### Linh tinh
 
-Một bức ảnh chụp có trong khung hình: ảnh trước, ảnh nền, ảnh trọng
-tâm. Một bài nhạc cũng giống thế: có phần nền, phần nổi phần trọng tâm.
+A good photograph taken by your phone/camera often has three parts:
+a background, a foreground and a focus (point; aka the main idea of
+your photograph).
 
-Phần nền như tiếng bass, là phần _mờ_ nhất. Rồi phần nhạc đệm, đỡ mờ hơn.
-Phần giai điệu _melody_ là phần rõ nét nhất.
+In music there are similar things: bass (background), rhythm (foreground?)
+and melody (focus point).
+
+### !! WARNING !!!
+
+The rest of this page is in Vietnamese. I will translate them into English later.
 
 ### Trio+ Band creator
 
